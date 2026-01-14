@@ -28,7 +28,7 @@ BOOK_NAME_MAP = {
 }
 
 JSON_PATH = "bible_meditation_structured.json"
-BACKGROUND_IMAGE = "5423dc65-db92-440e-abf6-cab473e7bae6.png"
+BACKGROUND_IMAGE = "Jesusloveme.png"
 
 OUTPUT_DIR = "generated"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
